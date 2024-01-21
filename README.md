@@ -14,7 +14,6 @@ A simple Java Swing application that demonstrates a bouncing ball animation.
 
 This Java Swing application showcases a basic animation of a ball bouncing off the walls within a window. The app provides three buttons to control the animation:
 
-1. **Add** Adds a new ball to start the animation.
 1. **Start** Initiates the bouncing ball animation.
 2. **Stop** Halts the ongoing animation.
 3. **Add** Adds a new ball to the animation.
